@@ -1,0 +1,11 @@
+1. if - This is the conditional statement.
+We can use [condition] or ((condition)) for int type of condition
+eg : if [ count -eq 10 ] or if ((count == 10))
+
+2. elif - This is the ladder if
+3. else - This is for false condition
+Note :- if statement always have to end the fi otherwise It will through error
+
+4.Logical operator we can like AND(&& or -a) and OR(|| or -o)
+eg: if[ 23 -lt age] && [age -gt 15], if[[23 -lt age && age -gt 15 ]], if[age -lt 23 -a -gt < 15]
+    if[ 23 -lt age] || [age -gt 15], if[[23 -lt age || age -gt 15 ]], if[age -lt 23 -o -gt < 15]

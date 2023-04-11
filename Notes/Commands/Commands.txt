@@ -1,0 +1,18 @@
+1. echo - It's a printing command -
+2. read - It's command to read user inputs
+ a. read -p - It's for the paragraph
+ b. read -ps - It's for the password
+3. touch - It's a command to create file
+4. ls - To see the list
+5. # - comments in shell script
+6. $ - to define pre-defined variables
+7. cat - command allows us to create single or multiple files, view contain of file, concatenate files and redirect output in terminal or file
+ a. cat >  - file will be overriden
+ b. cat >> - file will be appended
+8. vi - is one of the many ways to edit files in Unix. This editor enable you to edit lines in context with other lines in the file. 
+vi editor opens an editor tool to work
+9. echo -e(To read any filename),-d(To read any directory), -f(To read any filename)
+10. chmod - To give the permission to user to perform write/read/execute operations
+  a. chmod -w/r/x to remove the permission
+  b. chmod +w/r/x to add the permission
+
